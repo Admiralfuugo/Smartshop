@@ -1,0 +1,2 @@
+# Smartshop
+just  for shopping
